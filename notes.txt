@@ -1,1 +1,2 @@
 http://coenraets.org/blog/phonegap-tutorial/
+http://www.smashingmagazine.com/2014/02/11/four-ways-to-build-a-mobile-app-part3-phonegap/
