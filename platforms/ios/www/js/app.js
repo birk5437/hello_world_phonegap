@@ -40,3 +40,10 @@ var app = {
 //   $(".listening").setAttribute('style', 'display:none;');
 //   $(".received").setAttribute('style', 'display:block;');
 // });
+
+$( document ).on( "ready", function(){ 
+  alert("DERP");
+  StatusBar.overlaysWebView( false );
+  StatusBar.backgroundColorByName( "gray" );
+  alert("HERP");
+});
